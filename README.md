@@ -1,32 +1,69 @@
 # CF-Problem-Solutions
-Built to enable algorithm research, systematic investigation, and replicable analysis of problem-solving methods, code implementations of a selected set of Codeforces & AtCoder challenges
+
+A research-focused repository maintained by a Japanese **algorithm & machine learning researcher**, dedicated to the systematic study of algorithms through curated implementations of selected **AtCoder** and **Codeforces** problems.  
+The project emphasizes **methodological rigor, reproducibility, and educational clarity**.
+
+---
 
 # Japanese Research Solutions
 
-## Summary
-Written by a Japanese scientist for study and research only, this repository offers solutions to certain Codeforces tasks. Every approach underlines in computer problem-solving algorithmic strictness, methodological transparency, and repeatability.
+## Overview
+This repository provides algorithmic solutions created **exclusively for research and educational purposes**.  
+Each implementation is constructed to support:
 
-## Organization
-/solutions
-/<contest_id>
-<problem_letter>.cpp
+- empirical investigation of problem-solving methods,
+- transparent algorithmic reasoning,
+- reproducible computational analysis,
+- and structured documentation consistent with scientific research.
 
-- ******: Codeforces contest number.
-- The particular issue identification: ****
+The contents reflect a disciplined, research-oriented approach to competitive programming tasks.
+
+---
+
+## Research Motivation
+
+As an **algorithm and machine learning researcher**, I maintain this repository to build a well-organized environment for **algorithmic experimentation and evaluation**.  
+AtCoder and Codeforces problems function as valuable benchmarks for analyzing:
+
+- algorithmic complexity and performance patterns,
+- optimization and data-structure choices,
+- mathematical and ML-related reasoning applied to discrete problems,
+- and systematic approaches to solving constrained computational tasks.
+
+This repository serves as a **research notebook**, preserving reproducible solutions, alternative strategies, and theoretical insights for future reference.  
+Its purpose is strictly **research and education**.
+
+## Repository Structure
+- **`<contest_id>`** — the contest ID or reference number  
+- **`<problem_letter>`** — the specific problem code
 
 ## Purpose
-- Japanese researcher writes answers to help **algorithmic investigation and study**.
-- Record approaches and techniques for problem-solving.
-- Keep computer experiments clear and consistent.
 
-## Use
-1. Go to the proper folder for the competition.
-2. Open the solution file for the target issue.
-3. Assemble and execute using your preferred programming language/ compiler.
+- Provide a **research-oriented archive** for algorithm exploration.  
+- Document clearly reasoned and reproducible implementations.  
+- Support educational use in studying algorithms and computational techniques.  
+- Maintain a structured environment suitable for scientific analysis.
+
+---
+
+## Usage
+
+1. Navigate to the appropriate contest folder.
+2. Open the corresponding `.cpp` source file.
+3. Compile and execute using your preferred C++ compiler or environment.
+
+---
 
 ## Language
-In **C++, all solutions are applied.
+
+All solutions are implemented in **C++**, with an emphasis on clarity, correctness, and analytical value.
+
+---
 
 ## Notes
-- Only for study and research.
-- Comments in the code can include algorithmic reasoning.
+
+- Intended solely for **research and educational study**.
+- Comments may include theoretical explanations, algorithmic reasoning, and methodological insights.
+---
+
+## Repository Struct
