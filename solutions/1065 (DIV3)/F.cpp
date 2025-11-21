@@ -11,7 +11,6 @@
    fixme: why it works? no clue
    GitHub: https://github.com/IOIEnjoyer/CF-Problem-Solutions/tree/main
 */
-
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
